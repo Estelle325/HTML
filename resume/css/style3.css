@@ -1,0 +1,30 @@
+div{
+  font-size:22px;
+  display: block;
+}
+h1 {
+  font-size: 22px;
+  color: white;
+  background-color: dimgray;
+  width: 1000px;
+  height: 80px;
+}
+span{
+	display: block;
+}
+b1{
+	font-size: 22px;
+	background-color: grey;
+	float: left;
+	text-align: center;
+	width: 100px;
+	height: 130px;
+}
+b{
+  text: bold;
+  font-size:22px;
+}
+u{
+	text-decoration: underline;
+	color: blue;
+}

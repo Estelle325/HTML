@@ -1,0 +1,15 @@
+h1 {
+  font-size: 50px;
+}
+div{
+  font-size:18px;
+  display: inline;
+}
+b{
+  text: bold;
+  font-size:18px;
+}
+u{
+	text-decoration: underline;
+	color: blue;
+}
