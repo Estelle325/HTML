@@ -1,0 +1,135 @@
+#top{
+	margin: 50px 0 20px 830px;
+	font-size: 30px;
+	font-family: "century gothic";
+	font-weight: 500;
+}
+#tex{
+	margin: 0 0 0 710px;
+	text-align: center;
+	width: 550px;
+	color: grey;
+}
+#i1{
+	width: 480px;
+	height: 320px;
+	margin: 60px 0 0 450px;
+	position: absolute;
+	z-index: -2;
+}
+#im{
+	width: 480px;
+	height: 320px;
+	margin: 60px 0 0 450px;
+	position: absolute;
+	opacity: 0.7;
+	z-index: -1;
+}
+#i2{
+	width: 480px;
+	height: 320px;
+	margin: 60px 0 0 1020px;
+	position: absolute;
+}
+#i3{
+	width: 480px;
+	height: 320px;
+	margin: 400px 0 0 450px;
+	position: absolute;
+}
+#i4{
+	width: 480px;
+	height: 320px;
+	margin: 400px 0 0 1020px;
+	position: absolute;
+}
+
+#butf{
+	border-radius: 800px;
+	width: 60px;
+	height: 60px;
+	margin: 240px 0 0 520px;
+	position: absolute;
+	z-index: 1;
+	cursor: pointer;
+	font-size: xx-large;
+	font-weight: bold;
+	color: white;
+	background-color: lightgrey;
+	opacity: 0.1;
+}
+#butf:hover { /* 鼠标移入按钮范围时改变颜色 */
+	background: black;
+}
+#fac{
+	width: 60px;
+	height: 60px;
+	margin: 240px 0 0 520px;
+	position: absolute;
+	z-index: -1;
+}
+
+#butt{
+	border-radius: 800px;
+	width: 60px;
+	height: 60px;
+	margin: 240px 0 0 660px;
+	position: absolute;
+	z-index: 1;
+	cursor: pointer;
+	font-size: xx-large;
+	font-weight: bold;
+	color: white;
+	background-color: lightgrey;
+	opacity: 0.1;
+}
+#butt:hover { /* 鼠标移入按钮范围时改变颜色 */
+	background: black;
+}
+#twi{
+	width: 60px;
+	height: 60px;
+	margin: 240px 0 0 660px;
+	position: absolute;
+	z-index: -1;
+}
+
+#buti{
+	border-radius: 800px;
+	width: 60px;
+	height: 60px;
+	margin: 240px 0 0 800px;
+	position: absolute;
+	z-index: 1;
+	cursor: pointer;
+	font-size: xx-large;
+	font-weight: bold;
+	color: white;
+	background-color: lightgrey;
+	opacity: 0.1;
+}
+#buti:hover { /* 鼠标移入按钮范围时改变颜色 */
+	background: black;
+}
+#ins{
+	border-radius: 800px;
+	width: 60px;
+	height: 60px;
+	margin: 240px 0 0 800px;
+	position: absolute;
+	z-index: -1;
+}
+
+#ea{
+	color: #FFFFFF;
+	font-size: 21px;
+	margin: 100px 0 0 620px;
+}
+#tex1{
+	color: #FFFFFF;
+	margin: 30px 0 0 580px;
+}
+
+#but{
+	margin: 500px 0 0 1700px;
+}

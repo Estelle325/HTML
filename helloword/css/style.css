@@ -1,0 +1,49 @@
+h1{
+	padding-top: 6%;
+	width: 100%;
+	text-align: center;
+	font-family: "century gothic";
+}
+#t1{
+	font-family: "century gothic";
+	padding-top: 3%;
+	padding-bottom: 5%;
+	width: 100%;
+	text-align: center;
+}
+
+#box{
+	border-style: solid;
+	border-width: thin;
+	width: 54%;
+	text-align: center;
+	border-color: lightgray;
+	margin-left: 23%;
+}
+
+#t2{
+	font-size: 10px;
+	color: lightgray;
+	border: none;
+	text-align: center;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+input{
+	background: none;
+	border-style: solid;
+	border-width: thin;
+	height: 40px;
+	width: 20%;
+	text-align: left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#text-button{
+	display: inline;
+}
+button{
+	height: 40px;
+	width: 13%;
+	margin-bottom: 10%;
+}

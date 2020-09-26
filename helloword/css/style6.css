@@ -1,0 +1,242 @@
+#send{
+	border-style: solid;
+	border-width: thin;
+	border-color: grey;
+	width: 400px;
+	height: 450px;
+	margin: 30px 0 0 430px;
+	position: absolute;
+	color: white;
+}
+#fel{
+	font-size: 17px;
+	font-weight: 600;
+	margin: 60px 0 0 530px;
+	position: absolute;
+}
+#email{
+	width: 340px;
+	height: 40px;
+	margin: 120px 0 0 455px;
+	position: absolute;
+}
+#sub{
+	width: 340px;
+	height: 40px;
+	margin: 200px 0 0 455px;
+	position: absolute;
+}
+#mes{
+	width: 340px;
+	height: 100px;
+	margin: 280px 0 0 455px;
+	position: absolute;
+}
+#sen{
+	width: 350px;
+	height: 40px;
+	background-color: #000000;
+	color: #FFFFFF;
+	margin: 410px 0 0 455px;
+	position: absolute;
+	cursor: pointer;
+}
+#sen:hover{
+	background-color: #aa0000;
+}
+
+
+#con{
+	font-weight: 500;
+	font-size: 30px;
+	margin: 40px 0 0 1050px;
+	position: absolute;
+}
+#mak{
+	font-size: 16px;
+	color: #808080;
+	margin: 110px 0 0 1050px;
+	width: 600px;
+	position: absolute;
+}
+
+#str{
+	margin: 240px 0 0 1100px;
+	position: absolute;
+	width: 600px;
+}
+#pic1{
+	margin: 230px 0 0 1030px;
+	position: absolute;
+}
+#tel{
+	margin: 330px 0 0 1100px;
+	position: absolute;
+	width: 600;
+}
+#pic2{
+	margin: 310px 0 0 1035px;
+	position: absolute;
+}
+#mai{
+	margin: 410px 0 0 1108px;
+	position: absolute;
+	width: 600;
+}
+#pic3{
+	margin: 390px 0 0 1040px;
+	position: absolute;
+}
+
+#part2{
+	background-color: #000000;
+	width: 2000px;
+	height: 360px;
+	margin: 550px 0 0 0;
+	position: absolute;
+	color: white;
+}
+#lea{
+	font-size: 18px;
+	font-family: "century gothic";
+	margin: 60px 0 0 230px;
+	position: absolute;
+	font-weight: 600;
+}
+#mor{
+	font-family: "century gothic";
+	margin: 130px 0 0 230px;
+	position: absolute;
+	color: #808080;
+}
+#abo{
+	font-size: 18px;
+	font-family: "century gothic";
+	margin: 60px 0 0 590px;
+	position: absolute;
+	font-weight: 600;
+}
+#us{
+	font-family: "century gothic";
+	margin: 130px 0 0 590px;
+	position: absolute;
+	color: #808080;
+}
+#sup{
+	font-size: 18px;
+	font-family: "century gothic";
+	margin: 60px 0 0 950px;
+	position: absolute;
+	font-weight: 600;
+}
+#ort{
+	font-family: "century gothic";
+	margin: 130px 0 0 955px;
+	position: absolute;
+	color: #808080;
+}
+#enj{
+	font-size: 18px;
+	font-family: "century gothic";
+	margin: 60px 0 0 1310px;
+	position: absolute;
+	font-weight: 600;
+}
+#you{
+	font-family: "century gothic";
+	margin: 130px 0 0 1305px;
+	position: absolute;
+	color: #808080;
+}
+
+#b1{
+	width: 40px;
+	height: 40px;
+	border-radius: 100px;
+	border-color: black;
+	margin: 230px 0 0 1310px;
+	position: absolute;
+	cursor: pointer;
+	background-color: black;
+	opacity: 0.5;
+	z-index: 1;
+}
+#b2{
+	width: 40px;
+	height: 40px;
+	border-radius: 100px;
+	border-color: black;
+	margin: 230px 0 0 1370px;
+	position: absolute;
+	cursor: pointer;
+	background-color: black;
+	opacity: 0.5;
+	z-index: 1;
+}
+#b3{
+	width: 40px;
+	height: 40px;
+	border-radius: 100px;
+	border-color: black;
+	margin: 230px 0 0 1430px;
+	position: absolute;
+	cursor: pointer;
+	background-color: black;
+	opacity: 0.5;
+	z-index: 1;
+}
+#b4{
+	width: 40px;
+	height: 40px;
+	border-radius: 100px;
+	border-color: black;
+	margin: 230px 0 0 1490px;
+	position: absolute;
+	cursor: pointer;
+	background-color: black;
+	opacity: 0.5;
+	z-index: 1;
+}
+#b5{
+	width: 40px;
+	height: 40px;
+	border-radius: 100px;
+	border-color: black;
+	margin: 230px 0 0 1550px;
+	position: absolute;
+	cursor: pointer;
+	background-color: black;
+	opacity: 0.5;
+	z-index: 1;
+}
+
+#m1{
+	width: 40px;
+	height: 40px;
+	margin: 230px 0 0 1310px;
+	position: absolute;
+}
+#m2{
+	width: 40px;
+	height: 40px;
+	margin: 230px 0 0 1370px;
+	position: absolute;
+}
+#m3{
+	width: 40px;
+	height: 40px;
+	margin: 230px 0 0 1430px;
+	position: absolute;
+}
+#m4{
+	width: 40px;
+	height: 40px;
+	margin: 230px 0 0 1490px;
+	position: absolute;
+}
+#m5{
+	width: 40px;
+	height: 40px;
+	margin: 230px 0 0 1550px;
+	position: absolute;
+}
